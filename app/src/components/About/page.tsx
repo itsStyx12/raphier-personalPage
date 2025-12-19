@@ -44,7 +44,7 @@ export default function About() {
           >
             <div className="space-y-6 mb-8">
               <p className="text-gray-700 text-lg leading-relaxed">
-                Hi! I&apos;m Miku Kawaii, your favorite virtual entertainer! I love playing games, singing, and chatting with my amazing community. Every stream is a new adventure, and I can&apos;t wait to share it with you! 🎮🎵
+                Hi! I&apos;m Raphier, your favorite virtual entertainer! I love playing games, singing, and chatting with my amazing community. Every stream is a new adventure, and I can&apos;t wait to share it with you! 🎮🎵
               </p>
               <p className="text-gray-700 text-lg leading-relaxed">
                 Whether it&apos;s epic gaming moments, karaoke sessions, or just hanging out, there&apos;s always something fun happening here. Join me and let&apos;s make unforgettable memories together!

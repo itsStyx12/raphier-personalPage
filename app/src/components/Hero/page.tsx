@@ -105,8 +105,8 @@ export default function Hero() {
           </div>
 
           <h1 className="text-5xl sm:text-7xl lg:text-8xl text-white mb-6 tracking-tight">
-            MIKU
-            <span className="block text-3xl sm:text-5xl lg:text-6xl mt-2 text-emerald-100">KAWAII</span>
+            RAPHIER
+            {/* <span className="block text-3xl sm:text-5xl lg:text-6xl mt-2 text-emerald-100">KAWAII</span> */}
           </h1>
 
           <p className="text-white/90 text-lg sm:text-xl max-w-2xl mx-auto mb-8 leading-relaxed">

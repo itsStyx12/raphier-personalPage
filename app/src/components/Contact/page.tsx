@@ -8,7 +8,7 @@ export default function Contact() {
     {
       name: 'Twitter',
       icon: Twitter,
-      handle: '@MikuKawaii',
+      handle: '@Raphier',
       link: '#',
       color: 'from-blue-500 to-blue-400',
       bgColor: 'bg-blue-50',
@@ -17,7 +17,7 @@ export default function Contact() {
     {
       name: 'Twitch',
       icon: Twitch,
-      handle: 'MikuKawaii',
+      handle: 'Raphier',
       link: '#',
       color: 'from-purple-500 to-purple-400',
       bgColor: 'bg-purple-50',
@@ -27,7 +27,7 @@ export default function Contact() {
       name: 'Discord',
       icon: MessageCircle,
       handle: 'Join Server',
-      link: '#',
+      link: 'https://discord.gg/MxRpBPVj',
       color: 'from-indigo-500 to-indigo-400',
       bgColor: 'bg-indigo-50',
       hoverColor: 'hover:bg-indigo-100',
@@ -35,7 +35,7 @@ export default function Contact() {
     {
       name: 'Email',
       icon: Mail,
-      handle: 'contact@miku.vt',
+      handle: 'contact@raphier.vt',
       link: '#',
       color: 'from-emerald-500 to-green-400',
       bgColor: 'bg-emerald-50',

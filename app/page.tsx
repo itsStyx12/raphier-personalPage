@@ -34,7 +34,7 @@ export default function App() {
       {/* Footer */}
       <footer className="relative z-10 bg-gradient-to-r from-emerald-600 to-emerald-500 text-white py-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-sm">© 2025 VTuber Name. All rights reserved.</p>
+          <p className="text-sm">© 2025 Raphier. All rights reserved.</p>
           <p className="text-xs mt-2 opacity-80">Powered by dreams and virtual reality ✨</p>
         </div>
       </footer>
